@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FAQ](README.md)
-* [General](general.md)
+* [About](README.md)
+* [FAQ](faq.md)
 * [Back to VEGCRAVER](https://vegcraver.com)
 

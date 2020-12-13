@@ -2,7 +2,7 @@
 description: Frequently Asked Questions
 ---
 
-# FAQ
+# About
 
 ## **Does the platform only work in Berlin? When will it launch in my city?**
 
