@@ -50,7 +50,7 @@ Not a problem! We have a network of professional photographers who are happy to 
 
 Not only are they amazing at their craft, our photography partners also have a strong understanding of vegan ingredients and experience styling vegan food. They have the ‘vegan eye’ 😉.
 
-[Contact us](https://launch.vegcraver.com/contact) with your ideas and budget and we’ll put you in touch with a VECGRAVER photographer. 
+[Contact us](mailto:hello@vegcraver.com) with your ideas and budget and we’ll put you in touch with a VECGRAVER photographer. 
 
 ![](.gitbook/assets/brooke-lark-admhaf_cdns-unsplash-1-.png)
 
