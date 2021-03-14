@@ -32,6 +32,10 @@ Right now we support all major debit and credit cards \(Mastercard, Visa, Americ
 
 Yes! We are using Stripe as a payment provider. We don’t store any payment information on our side \(like credit card numbers or bank information etc.\). Our partners \(caterers\) have no access to any information regarding payment. All website traffic is encrypted.
 
+## How do I delete my account?
+
+You can delete your Account on your profile's settings page. You may only delete your account if you have no outstanding orders or payments.
+
 ## 🧡 Still have questions?
 
 Message us directly at hello@vegcraver.com.
